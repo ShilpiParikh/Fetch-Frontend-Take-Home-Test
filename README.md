@@ -6,8 +6,10 @@ Pre-Requisite:
 
 Installation Guide
 
-1. Clone the Repository: git clone 
+1. Clone the Repository: git clone https://github.com/ShilpiParikh/Fetch-Frontend-Take-Home-Test.git
 2. Open the folder with the project in the command prompt
-3. npm install
-4. npm start
+3. cd dog-shelter
+4. npm install
+5. npm start
 
+Author: Shilpi Hiteshkumar Parikh
